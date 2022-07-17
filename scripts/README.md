@@ -12,4 +12,4 @@
 - Blender (Flatpak)
 - Wine64
 
-*=It is commented since further steps are to be verified after reboot and I assume if you are going to install that, you would know what to do.
+*= It is commented since requiring more steps such as adding user to usergroups and then validating the installation itself.
