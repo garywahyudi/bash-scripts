@@ -1,4 +1,4 @@
-# Application installed and setup via this script:
+## Application included in setup-linux.sh script:
 - VSCodium
 - Brave
 - Nicotine+
